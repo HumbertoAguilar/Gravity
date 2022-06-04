@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+body {
+  text-align: center;
+  margin: 10px;
+}
+
+canvas {
+  margin: 20px auto;
+}
+
+button {
+  color: red;
+  background: black;
+  border: none;
+  padding: 10px;
+  font-weight: 300;
+  font-size: 1.2em;
+  font-family: 'Roboto';
+  margin: 5px;
+  cursor: pointer;
+  outline: none;
+}
